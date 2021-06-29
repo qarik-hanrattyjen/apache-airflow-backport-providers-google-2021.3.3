@@ -1,0 +1,7 @@
+#!/Users/jhanrattyqarik.com/Downloads/apache-airflow-backport-providers-google-2021.3.3/venv/bin/python
+import json_merge_patch.cli
+json_merge_patch.cli.main()
+
+
+
+
